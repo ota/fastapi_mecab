@@ -1,5 +1,6 @@
 # MeCab Web App based on FastAPI and Streamlit
 This repository provides a simple web app which analyze Japanese text by MeCab.
+<div align="left"><img src="screenshot.png" width="550"/></div>
 
 ## Requirements
 Python 3.8 (I recommend using a package management tool such as Anaconda.)
