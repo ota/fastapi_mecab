@@ -25,3 +25,6 @@ $ streamlit run app.py
 ```
 
 And then, open `http://localhost:8501/` by your browser.
+
+## License
+* Non-commercial purpose only
